@@ -1,0 +1,15 @@
+{
+  "manifests": {
+      "byte-artist/menu-bundle": {
+          "manifest": {
+              "bundles": {
+                  "ByteArtist\\MenuBundle\\MenuBundle": ["all"]
+              },
+              "copy-from-recipe": {
+                  "config/": "%CONFIG_DIR%/"
+              }
+          },
+          "ref": "1195a75c2c8826343f3cc936a06a883f986a56ae"
+      }
+  }
+}

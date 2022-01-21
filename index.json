@@ -1,11 +1,11 @@
 {
   "recipes": {
       "byte-artist/menu-bundle": [
-          "1.0"
+          "0.1"
       ]
   },
   "branch": "master",
-  "is_contrib": true,
+  "is_contrib": false,
   "_links": {
       "repository": "github.com/mastercad/menu-bundle",
       "origin_template": "{package}:{version}@github.com/mastercad/menu-bundle:master",
