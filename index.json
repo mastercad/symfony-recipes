@@ -7,8 +7,8 @@
   "branch": "master",
   "is_contrib": false,
   "_links": {
-      "repository": "github.com/mastercad/menu-bundle",
-      "origin_template": "{package}:{version}@github.com/mastercad/menu-bundle:master",
-      "recipe_template": "https://api.github.com/repos/mastercad/menu-bundle/contents/{package_dotted}.{version}.json"
+      "repository": "github.com/mastercad/symfony-recipes",
+      "origin_template": "{package}:{version}@github.com/mastercad/symfony-recipes:master",
+      "recipe_template": "https://api.github.com/repos/mastercad/symfony-recipes/contents/{package_dotted}.{version}.json"
   }
 }
