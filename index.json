@@ -1,7 +1,9 @@
 {
   "recipes": {
       "byte-artist/menu-bundle": [
-          "0.1"
+          "0.1",
+          "0.1-dev",
+          "dev-master"
       ]
   },
   "branch": "master",
