@@ -9,22 +9,7 @@
                   "config/": "%CONFIG_DIR%/"
               }
           },
-          "files": {
-              "config/packages/menu.yaml": {
-                  "contents": [
-                      "type: default # bootstrap, default, list, div (list is default)",
-                      "  #    brand_name: Brand Name # optional, only for bootstrap",
-                      "#    use_orig_css: true # flag to use original css for current menu type, default true, optional",
-                      "#    use_orig_js: true # flag to use original javascript for current menu type, default true, optional",
-                      "#    pages: # list of menu entries",
-                      "#        label_trans_token:",
-                      "#            path: existing_route_name",
-                      "#            pages: (optional sub pages)"
-                  ],
-                  "executable": false
-              }
-          },
-          "ref": "1195a75c2c8826343f3cc936a06a883fas6a56ae"
+          "ref": "1195a75c2c8826343f3ccasasa6a883fas6a56ae"
       }
   }
 }
