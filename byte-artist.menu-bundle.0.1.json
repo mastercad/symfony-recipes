@@ -11,7 +11,7 @@
           },
           "files": {
               "config/packages/menu.yaml": {
-                  "menu": [
+                  "contents": [
                       "type: default # bootstrap, default, list, div (list is default)",
                       "  #    brand_name: Brand Name # optional, only for bootstrap",
                       "#    use_orig_css: true # flag to use original css for current menu type, default true, optional",
