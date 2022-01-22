@@ -7,7 +7,7 @@
       ]
   },
   "branch": "master",
-  "is_contrib": true,
+  "is_contrib": false,
   "_links": {
       "repository": "github.com/mastercad/symfony-recipes",
       "origin_template": "{package}:{version}@github.com/mastercad/symfony-recipes:master",
