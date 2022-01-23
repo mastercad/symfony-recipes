@@ -4,8 +4,9 @@
           "0.1"
       ]
   },
+  "versions": [],
   "branch": "master",
-  "is_contrib": false,
+  "is_contrib": true,
   "_links": {
       "repository": "github.com/mastercad/symfony-recipes",
       "origin_template": "{package}:{version}@github.com/mastercad/symfony-recipes:master",
